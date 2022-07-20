@@ -1,2 +1,5 @@
 # fileReNamer
-Any files are renamed by Python
+
+This is file name renamer by Python.
+You can edit any file-names, 
+editting with to delete or append or replace.
